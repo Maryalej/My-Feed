@@ -1,0 +1,160 @@
+body {
+    background: rgb(230, 228, 228);
+    margin-top: 0%;
+
+}
+
+h1 {
+    margin: auto;
+    background: white;
+    margin-bottom: 20px;
+    padding-left: 490px;
+    padding-bottom: 15px ;
+    padding-top: 25px;
+}
+
+
+.feed-body {
+    background: white;
+    margin: auto;
+    padding-top: 5px;
+    width: 35%;
+    margin-top: 40px;
+
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 30px;
+
+}
+
+h2, h3 {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: medium;    
+
+}
+
+h3 {
+    float: right;
+    margin-right: 10px;
+    color: rgb(211, 210, 210);
+
+}
+
+h2 {
+    margin-left: 10px;
+    
+}
+
+.feed-footer {
+    display: inline;
+    padding-top: 20%;
+    bottom: 200px;
+
+
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    text-align: justify;
+
+}
+
+.feed-body2 {
+    background: white;
+    margin: auto;   
+    width: 35%;
+      
+   
+}
+
+ h4,h5{
+    display: inline-block;
+
+ }
+
+ h5 {
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: rgb(211, 210, 210);
+ }
+ h4 {
+    margin-left: 10px;
+    margin-top: 10px;
+    
+    
+}
+
+.img2 {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: -15px;
+}
+
+.feed-footer2{
+    
+        display: inline;
+        padding-top: 20%;
+        bottom: 200px;
+       
+}
+
+
+
+.feed-body3 {
+    background: white;
+    margin: auto;
+    width: 35%;
+    margin-top: 40px;
+       
+}
+
+ h6, h7 {
+    display: inline-block;
+    margin-top: 15px;
+   
+ }
+
+ h7 {
+    float: right;
+    margin-right: 10px;
+    color: rgb(211, 210, 210);
+    font-size:small;
+  
+ }
+ h6 {
+    margin-left: 10px;
+    font-size: medium;
+    
+    
+    
+}
+
+.img3 {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: -15px;
+}
+
+.feed-footer3 {
+    
+        display: inline;
+        padding-top: 20%;
+        bottom: 200px;        
+}
+
+
